@@ -1,7 +1,7 @@
 
 
-describe('test',()=> {
-    it('should be call test return true', ()=> {
-        expect(TodoList()).toBe(true)
+describe('addTask',()=> {
+    it('should be return string', ()=> {
+        expect(TodoList().addTask('submitTask')).toBe('')
     })
 })
