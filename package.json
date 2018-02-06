@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jasmine spec/todoSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemyMozelle/todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemyMozelle/todolist/issues"
+  },
+  "homepage": "https://github.com/RemyMozelle/todolist#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "jasmine": "^2.9.0"
+  }
+}
